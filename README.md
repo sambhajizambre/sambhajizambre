@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhajizambre)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
-![counter](https://[YourEndpoint].m.pipedream.net)
+
+![](https://komarev.com/ghpvc/?username=your-sambhajizambre)
