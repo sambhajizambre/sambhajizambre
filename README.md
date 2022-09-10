@@ -6,7 +6,7 @@
 - ⚡ Fun fact: ...
 -->// README.md - 
 - 🔭 I’m Sambhaji Zambre a Machine Learning and Deep Learning Engineer.
- - 🌱 I’m currently working on Data Science, Machine Learning projects.
+- 🌱 I’m currently working on Data Science, Machine Learning projects.
  
 - 👯 I’m currently learning NLP,Deep Learning specialization (Neural network,sequence models ,Hyper parameter tuning for improving Deep Learning,structuring Machine Learning projects,convolutional neural networks).
 
@@ -14,11 +14,11 @@
 
 - ## Things I am passionate about:
 
-📈 Machine Learning
+  📈 Machine Learning
 
-🤖 Deep Learning
+  🤖 Deep Learning
 
-🧠 Neural Networks- Tensorflow & Keras
+  🧠 Neural Networks- Tensorflow & Keras
 
 - 📫 How to reach me: sambhajizambre90@gmail.com ,www.linkedin.com/in/sambhaji-zambre-0a10a0219 ,https://medium.com/@sambhajizambre90
 - ## Sambhaji's Total Stats:
