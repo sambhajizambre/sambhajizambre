@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=your-sambhajizambre)
 <!--
 **sambhajizambre/sambhajizambre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: ...
@@ -11,6 +12,7 @@
 - 👯 I’m currently learning NLP,Deep Learning specialization (Neural network,sequence models ,Hyper parameter tuning for improving Deep Learning,structuring Machine Learning projects,convolutional neural networks).
 
 - 🤔 BE mechanical engineering from MPGI sschool of engineering ,SRTM University Nanded Maharashtra ,India.
+
 
 - ## Things I am passionate about:
 
@@ -33,4 +35,3 @@
 ![Visitor Count](https://profile-counter.glitch.me/sambhajizambre/count.svg)
 
 
-![](https://komarev.com/ghpvc/?username=your-sambhajizambre)
