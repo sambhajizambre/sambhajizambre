@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->// README.md - 
-- 🔭 I’m Sambhaji Zambre a Machine Learning and Deep Learning Engineer.
-- 🌱 I’m currently working on Data Science, Machine Learning projects.
+- 🔭 I’m Sambhaji Zambre a data analyst and data science enthusiastic.
+- 🌱 I’m currently working in JohnDeere india Ltd on payroll of GGS engineering Services as a Data analyst.
  
 - 👯 I’m currently learning NLP,Deep Learning specialization (Neural network,sequence models ,Hyper parameter tuning for improving Deep Learning,structuring Machine Learning projects,convolutional neural networks).
 
